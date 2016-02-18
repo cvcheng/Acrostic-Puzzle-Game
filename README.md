@@ -21,7 +21,7 @@ The solution is always a quotation with numbered spaces:  __ __ __ __ __   __ __
 
 If the answer to clue 1 is "whole", then the solution fills in as: h e l __ o  __ __ __ l __
 
-                                                           1 2 3 4 5  6  7  8  9  10
+                                                           1 2 3 4 5 6  7  8 9 10
 
 
 If the answer to clue 2 is "droll", then the quotation turns out to be: h  e  l  l  o w  o  r  l  d
