@@ -1,9 +1,9 @@
-# How is the game played?
+## How is the game played?
 
 The game is related to a crossword puzzle but it is the letters of the answer to a clue that are used in another puzzle.
 A series of clues are given for individual words. Each letter is assigned a number which will be used to assemble the final quotation.
 
-# Here is an example:
+## Here is an example:
 
 The two clues are: 
 
